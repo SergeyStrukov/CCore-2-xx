@@ -25,3 +25,5 @@ and Installation, should be red to start working with CCore. Yoy can also read
 CCore wiki on github to brief yourself about this project.
 
 CCore 2-xx is a built using C++14. It is not fully backward compartible with 1-xx series.
+
+Online documentation is http://sergeystrukov.github.io/CCore2/.
