@@ -15,6 +15,8 @@
 
 #include <CCore/test/test.h>
 
+#include <stdint.h>
+
 namespace App {
 
 namespace Private_2999 {
